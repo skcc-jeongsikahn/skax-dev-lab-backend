@@ -4,6 +4,11 @@
 ```
 https://github.com/skcc-jeongsikahn/skax-dev-lab-backend
 ```
+
+## local 환경으로 어플리케이션 실행 방법
+gradlew bootRun --args='--spring.profiles.active=local'
+
+
 ## 실습 프롬프트
 
 - 프로젝트 구조 생성 프롬프트
@@ -82,8 +87,7 @@ https://github.com/skcc-jeongsikahn/skax-dev-lab-backend
         $ task-master list --with-subtasks
         ```
 
-## local 환경으로 어플리케이션 실행 방법
-gradlew bootRun --args='--spring.profiles.active=local'
+
 
 
 
