@@ -8,6 +8,9 @@ https://github.com/skcc-jeongsikahn/skax-dev-lab-backend
 ## local 환경으로 어플리케이션 실행 방법
 gradlew bootRun --args='--spring.profiles.active=local'
 
+## Swagger 확인인
+http://localhost:8080/api/swagger-ui/index.html
+
 
 ## 실습 프롬프트
 
